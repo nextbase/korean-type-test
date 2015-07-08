@@ -132,15 +132,6 @@ textarea {
   border-bottom: 5px solid #333;
 }
 
-@media (max-width: 800px) {
-
-  .unit {
-    width: 100%;
-    margin-right: 0;
-  }
-
-}
-
 .unit:last-child {
   margin-right: 0
 }
@@ -154,6 +145,16 @@ textarea {
 
 .unit.subpixel:last-child {
   margin-right: 0
+}
+
+@media (max-width: 800px) {
+
+  .unit.subpixel,
+  .unit {
+    width: 100%;
+    margin-right: 0;
+  }
+
 }
 
 unit.antialiased h3, unit.antialiased p {
