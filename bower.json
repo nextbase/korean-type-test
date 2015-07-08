@@ -1,0 +1,23 @@
+{
+  "name": "typetest",
+  "version": "0.0.1",
+  "authors": [
+    "Igor Putina <igor@next-aeon.com>"
+  ],
+  "description": "Testing different typefaces and rendering",
+  "main": "index.html",
+  "keywords": [
+    "fonts",
+    "css",
+    "rendering"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.next-aeon.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
