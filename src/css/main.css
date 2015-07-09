@@ -196,6 +196,7 @@ p.small {
 
 .noto {
   font-family: "Noto Sans Korean", serif;
+  font-weight: lighter;
 }
 
 .nanum {
