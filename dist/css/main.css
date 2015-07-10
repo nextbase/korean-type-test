@@ -193,10 +193,15 @@ p.large {
 }
 
 p.medium: {
-  font-size: 15px;
+  font-size: 16px;
+  font-weight: normal;
 }
 
 p.small {
+  font-size: 14px;
+}
+
+p.smallest {
   font-size: 12px;
 }
 
@@ -205,7 +210,7 @@ p.small {
 }
 
 .noto {
-  font-family: "Noto Sans Korean", serif;
+  font-family: "Noto Sans Korean", sans-serif;
   font-weight: lighter;
 }
 
@@ -214,11 +219,11 @@ p.small {
 }
 
 .source-han-sans {
-  font-family: "source-han-sans-korean", serif;
+  font-family: "source-han-sans-korean", sans-serif;
 }
 
 .jeju-gothic {
-  font-family: 'Jeju Gothic', serif;
+  font-family: 'Jeju Gothic', sans-serif;
 }
 
 .kopub {
